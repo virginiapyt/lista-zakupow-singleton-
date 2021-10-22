@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Zakupy 3a</string>
+    <string name="twoja_lista_zakupow">Twoja lista zakupow</string>
+
+    <array name="start">
+        <item>Pokaż liste</item>
+        <item>Edytuj listę</item>
+        <item>Moje ulubione</item>
+
+    </array>
+
+</resources>
